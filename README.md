@@ -2,6 +2,8 @@
 
 ### Projects
 - 🎮 [DealShark](https://github.com/Liambruce440/DealShark) — Game deal finder web application
+- 🌐 [Linux Web Server](https://github.com/Liambruce440/LinuxWebServer) — Ubuntu LAMP deployment with Apache virtual hosts, WordPress,
+logging and automated backups.
 
 
 ### Certifications
