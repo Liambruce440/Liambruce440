@@ -1,7 +1,7 @@
 ## Liam Bruce Bsc Computing with Networking and Cyber Security Student
 
 ### Projects
-- 🎮 DealShark — Game deal finder web application
+- 🎮 [DealShark](https://github.com/Liambruce440/DealShark) — Game deal finder web application
 
 
 ### Certifications
